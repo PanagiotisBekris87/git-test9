@@ -6,7 +6,7 @@ public class HelloWorld {
 
         System.out.println("Hello World!");
         System.out.println("Hello coding");
-        System.out.println("hello else");
         System.out.println("Hello something");
+        System.out.println("hello else");
     }
 }
